@@ -1,0 +1,51 @@
+[
+  {
+    "id": "TXN-2001",
+    "vendor": "AWS",
+    "amount": 4915.32,
+    "date": "2026-04-08",
+    "description": "Amazon Web Services - invoice #AWS-88213-0326, service period Mar 1-31"
+  },
+  {
+    "id": "TXN-2002",
+    "vendor": "Sterling Consulting Group LLC",
+    "amount": 18750,
+    "date": "2026-04-05",
+    "description": "Invoice #SCG-4471 - March consulting services, retainer + overage hours"
+  },
+  {
+    "id": "TXN-2003",
+    "vendor": "Meridian Ins. Brokers",
+    "amount": 2890,
+    "date": "2026-04-12",
+    "description": "Q1 general liability + property premium adjustment"
+  },
+  {
+    "id": "TXN-2004",
+    "vendor": "Quickserve Office Supply",
+    "amount": 340.15,
+    "date": "2026-04-03",
+    "description": "Invoice #QS-9982 - office supplies, April order"
+  },
+  {
+    "id": "TXN-2005",
+    "vendor": "DataFlow Analytics",
+    "amount": 1875,
+    "date": "2026-04-01",
+    "description": "March 2026 subscription invoice"
+  },
+  {
+    "id": "TXN-2006",
+    "vendor": "Sterling Consulting Group",
+    "amount": 4100,
+    "date": "2026-04-09",
+    "description": "Invoice #SCG-4398 - February overage hours (delayed billing)"
+  },
+  {
+    "id": "TXN-2007",
+    "vendor": "Northstar Facilities",
+    "amount": 4400,
+    "date": "2026-04-14",
+    "description": "Invoice #NF-1187 - combined Jan/Feb facilities services"
+  }
+]

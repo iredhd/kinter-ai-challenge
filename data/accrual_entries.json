@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ACC-1001",
+    "vendor": "Amazon Web Services",
+    "amount": 4820,
+    "gl_account": "6100-Cloud Infrastructure",
+    "accrual_date": "2026-03-31",
+    "memo": "March AWS usage estimate, based on Feb actuals + 8%"
+  },
+  {
+    "id": "ACC-1002",
+    "vendor": "Sterling Consulting Group",
+    "amount": 12500,
+    "gl_account": "6300-Professional Services",
+    "accrual_date": "2026-03-31",
+    "memo": "March retainer accrual, contract rate"
+  },
+  {
+    "id": "ACC-1003",
+    "vendor": "Sterling Consulting Group",
+    "amount": 6250,
+    "gl_account": "6300-Professional Services",
+    "accrual_date": "2026-03-31",
+    "memo": "Additional March hours beyond retainer, est. per Mar 22 email from S. Alvarez"
+  },
+  {
+    "id": "ACC-1004",
+    "vendor": "Meridian Business Insurance",
+    "amount": 3100,
+    "gl_account": "6400-Insurance",
+    "accrual_date": "2026-03-31",
+    "memo": "Q1 premium true-up, est."
+  },
+  {
+    "id": "ACC-1005",
+    "vendor": "Northstar Facilities Mgmt",
+    "amount": 2200,
+    "gl_account": "6500-Office & Facilities",
+    "accrual_date": "2026-03-15",
+    "memo": "Feb facilities services, invoice pending since Jan"
+  },
+  {
+    "id": "ACC-1006",
+    "vendor": "DataFlow Analytics Inc",
+    "amount": 1875,
+    "gl_account": "6200-Software & Subscriptions",
+    "accrual_date": "2026-03-31",
+    "memo": "March subscription, prorated for mid-month seat increase"
+  },
+  {
+    "id": "ACC-1007",
+    "vendor": "Sterling Consulting Group",
+    "amount": 4100,
+    "gl_account": "6300-Professional Services",
+    "accrual_date": "2026-02-28",
+    "memo": "Feb overage hours, still outstanding per AP aging report"
+  },
+  {
+    "id": "ACC-1008",
+    "vendor": "Bright Path Logistics",
+    "amount": 950,
+    "gl_account": "6600-Shipping & Logistics",
+    "accrual_date": "2026-03-31",
+    "memo": "March freight estimate based on Q1 avg"
+  }
+]
